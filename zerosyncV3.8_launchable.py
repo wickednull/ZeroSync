@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-# ZeroSync v3.6 - Real Bluetooth Hacking Toolkit (No placeholders)
+# ZeroSync v3.6 - Real Bluetooth Hacking Toolkit
 
 import os
 import time
