@@ -103,7 +103,8 @@ Null_Lyfe
 Developed with the goal of pushing Bluetooth reconnaissance and research tools to the next level.
 
 🙏 Credits & Special Thanks
-	•	💜 Special thanks to ekomsSavior, the original creator of SpamJam, whose work inspired multiple core features and concepts now integrated into ZeroSync. Your creative BLE tooling helped shape the modern direction of Bluetooth offensive research.
+
+•	💜 Special thanks to ekomsSavior, the original creator of SpamJam, whose work inspired multiple core features and concepts now integrated into ZeroSync. Your creative BLE tooling helped shape the modern direction of Bluetooth offensive research.
 	•	🧠 Additional thanks to the open-source security and Bluetooth hacking community for continuous inspiration.
 
 
