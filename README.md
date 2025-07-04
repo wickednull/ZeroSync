@@ -99,6 +99,7 @@ The author assumes no liability for any damage caused by misuse.
 👨‍💻 Author
 
 Null_Lyfe
+
 Developed with the goal of pushing Bluetooth reconnaissance and research tools to the next level.
 
 🙏 Credits & Special Thanks
